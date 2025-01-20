@@ -1,4 +1,4 @@
-# Curso Guanabara
- Repositório criado para aprender git e github do curso do Guanabara
+# Curso de Git/Github Guanabara
+ Repositório criado para aprender *git e github* do curso do **Gustavo Guanabara**
 <<<<<<< HEAD
-# Testando como funciona a digitação
+# Como está sendo essa experiência
